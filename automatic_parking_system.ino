@@ -55,8 +55,6 @@ void loop()
               servo.write(i);
               delay(10);
             } 
-
-
             delay(1000);
             av_spaces--; // no. of parking space available is reduced by 1
             lcd.clear();
