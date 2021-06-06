@@ -8,4 +8,4 @@ Components used:
 5.Micro Servo
 6.I2C_LCD (16X2)
 
-IR sensors present outside and inside the parking gate, detects the car entering or leaving and the data of spaces availaible gets upadated and is displayed on LCD screen.
+IR sensors present outside and inside the parking gate, detects the car entering or leaving and the data of spaces availaible gets updated and is displayed on LCD screen.
