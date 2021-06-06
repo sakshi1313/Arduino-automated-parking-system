@@ -82,7 +82,7 @@ void loop()
     if(flg1==0) // condition is true if car is exiting
     {
       digitalWrite(red_LED,LOW);
-      for(int i=5;i<=90;i++) // opening parking gate
+      for(int i=20;i<=90;i++) // opening parking gate
       {
          servo.write(i);
          delay(10);
