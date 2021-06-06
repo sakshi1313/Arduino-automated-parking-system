@@ -72,7 +72,7 @@ void loop()
           digitalWrite(red_LED,HIGH);
           lcd.clear();
           lcd.setCursor(0,0);
-          lcd.print(" space not left");
+          lcd.print("no space left");
           delay(1000);
         }
   }
@@ -91,7 +91,7 @@ void loop()
        av_spaces++; // no. of parking space available is increased by 1
        lcd.clear();
        lcd.setCursor(0,0);
-       lcd.print("TOTAL SPACE = 5");
+       lcd.print("TOTAL SPACE:5");
        lcd.setCursor(0,1);
        lcd.print("SPACE LEFT"); 
        lcd.setCursor(11,1);
