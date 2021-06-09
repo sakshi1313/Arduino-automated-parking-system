@@ -1,4 +1,4 @@
-# Arduino-automatic-parking-system
+# Arduino-automated-parking-system
 
 Components used:
 1.Arduino UNO
